@@ -1,0 +1,27 @@
+body{
+    font-family:"Helvetica", sans-serif;
+    background-color: #dddddd;
+    color:rgb(0,0,0,.95)
+}
+
+ul.menu{
+    list-style-type: none;
+    font-size: 24px;
+}
+
+a{
+    color:#112233;
+}
+
+a:visited{
+    color:#112233;
+}
+
+.description-text{
+    font-style: italic;
+}
+
+img{
+    width:512px;
+    height:auto;
+}
